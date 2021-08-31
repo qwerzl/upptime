@@ -40,17 +40,19 @@
     "url": "https://notes.felt.blue",
     "icon": "https://favicons.githubusercontent.com/notes.felt.blue",
     "slug": "notea",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.92%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
     "time": 8104,
     "timeDay": 8104,
     "timeWeek": 8104,
     "timeMonth": 8104,
     "timeYear": 8104,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-31": 0
+    }
   }
 ]
