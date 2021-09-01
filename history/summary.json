@@ -22,19 +22,19 @@
     "url": "https://nc.felt.blue",
     "icon": "https://favicons.githubusercontent.com/nc.felt.blue",
     "slug": "nextcloud",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 958,
-    "timeDay": 853,
-    "timeWeek": 958,
-    "timeMonth": 958,
-    "timeYear": 958,
+    "status": "up",
+    "uptime": "99.52%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.52%",
+    "uptimeYear": "99.52%",
+    "time": 920,
+    "timeDay": 837,
+    "timeWeek": 920,
+    "timeMonth": 920,
+    "timeYear": 920,
     "dailyMinutesDown": {
-      "2021-09-01": 0
+      "2021-09-01": 12
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://favicons.githubusercontent.com/notes.felt.blue",
     "slug": "notea",
     "status": "down",
-    "uptime": "3.30%",
+    "uptime": "3.28%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "3.30%",
-    "uptimeMonth": "3.30%",
-    "uptimeYear": "3.30%",
+    "uptimeWeek": "3.28%",
+    "uptimeMonth": "3.28%",
+    "uptimeYear": "3.28%",
     "time": 8104,
     "timeDay": 0,
     "timeWeek": 8104,
     "timeMonth": 8104,
     "timeYear": 8104,
     "dailyMinutesDown": {
-      "2021-09-01": 1051,
+      "2021-09-01": 1063,
       "2021-08-31": 1403
     }
   }
