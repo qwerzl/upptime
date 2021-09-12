@@ -22,7 +22,7 @@
     "url": "https://nc.felt.blue",
     "icon": "https://favicons.githubusercontent.com/nc.felt.blue",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 1126,
     "timeMonth": 1091,
     "timeYear": 1091,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-12": 0
+    }
   },
   {
     "name": "Notea",
@@ -41,18 +43,18 @@
     "icon": "https://favicons.githubusercontent.com/notes.felt.blue",
     "slug": "notea",
     "status": "down",
-    "uptime": "0.48%",
+    "uptime": "0.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.48%",
-    "uptimeYear": "0.48%",
+    "uptimeMonth": "0.46%",
+    "uptimeYear": "0.46%",
     "time": 8104,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 8104,
     "timeYear": 8104,
     "dailyMinutesDown": {
-      "2021-09-12": 17,
+      "2021-09-12": 764,
       "2021-09-11": 1440,
       "2021-09-10": 1440,
       "2021-09-09": 1440,
